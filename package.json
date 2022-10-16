@@ -15,6 +15,7 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
+  "homepage": "https://RodoPZ.github.io/TODO_React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
