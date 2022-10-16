@@ -1,0 +1,13 @@
+main {
+  width: 90%;
+  height: 90%;
+  margin: 20px auto;
+  background-color: rgb(238, 238, 238);
+  border-radius: 20px;
+  overflow: auto;
+}
+
+.Title {
+  margin: 10px 0;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+html {
+  background-color: rgb(37, 66, 90);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0px;
+  overflow: auto;
+}
