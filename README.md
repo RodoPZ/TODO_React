@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+App made for practicing React: [Live demo](https://rodopz.github.io/TODO_React/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
